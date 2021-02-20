@@ -805,9 +805,14 @@ right:0;
     display:block;
   }
 
+  .twitter__info:last-child {
+    margin-bottom: 30px;
+  }
+
   .footer__contact,
   .footer__texxt,
-  .footer__content-item a {
+  .footer__content-item a,
+  .footer__text {
     margin-bottom: 15px;
   }
 
